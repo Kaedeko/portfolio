@@ -10,7 +10,8 @@
   "dependencies": {
     "next": "^6.0.3",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "prop-types": "^15.6.2"
   },
   "scripts": {
     "dev": "next",

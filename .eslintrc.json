@@ -1,8 +1,7 @@
 {
-    "extends": ["airbnb", "prettier"],
-    "plugins": [
-        "react",
-        "jsx-a11y",
-        "import"
-    ]
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["react", "jsx-a11y", "import"],
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  }
 }
