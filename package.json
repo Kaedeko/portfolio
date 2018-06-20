@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Jade's Portfolio Site",
+  "main": "index.js",
+  "repository": "https://github.com/metapyroxia/portfolio",
+  "author": "Metapyroxia",
+  "license": "None",
+  "private": true
+}
